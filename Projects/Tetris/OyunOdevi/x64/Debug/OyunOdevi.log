@@ -1,0 +1,11 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (OyunOdevi.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Oyun.cpp
+C:\Users\Abdullah\Desktop\My Projects\C++ Game ( Tetris )\Projects\Tetris\OyunOdevi\Oyun.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Abdullah\Desktop\My Projects\C++ Game ( Tetris )\Projects\Tetris\OyunOdevi\Oyun.cpp(79,118): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Abdullah\Desktop\My Projects\C++ Game ( Tetris )\Projects\Tetris\OyunOdevi\Oyun.cpp(166,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abdullah\Desktop\My Projects\C++ Game ( Tetris )\Projects\Tetris\OyunOdevi\Oyun.cpp(166,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abdullah\Desktop\My Projects\C++ Game ( Tetris )\Projects\Tetris\OyunOdevi\Oyun.cpp(176,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Abdullah\Desktop\My Projects\C++ Game ( Tetris )\Projects\Tetris\OyunOdevi\Oyun.cpp(176,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Source.cpp
+  Generating Code...
+  OyunOdevi.vcxproj -> C:\Users\Abdullah\Desktop\My Projects\C++ Game ( Tetris )\Bin\Proje.exe
